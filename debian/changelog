@@ -1,0 +1,5 @@
+xmlrunner (1.7.7-1) UNRELEASED; urgency=medium
+
+  * Initial Debian packaging
+
+ -- Mycroft Devs <devops@mycroft.ai>  Mon, 17 Jul 2017 14:53:40 -0500
